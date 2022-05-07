@@ -1,2 +1,49 @@
 # MASTERV22
-tkinter tools fake page login
+ 
+PERSONAL INFORMATION 
+NAME:RYAN GRAICHI
+GMAIL: rayanegraichi15@gmail.com
+
+AGE : 19 ANS
+NAME PROGRAME: MASTER V22
+DATE CREATED: 2022-05-06
+
+
+#START SCRIPT  
+
+---> pyhton3 master.py
+
+#SERVER 
+
+--> PYTHON SERVER
+--> PHP SERVER
+--> SSH SERVER
+--> NGROK SERVER
+
+#FAKE PAGE HTML
+
+-->facebook
+-->EBAY
+-->LINKDIN
+--> PAYPAL
+--> SPOTIFY
+--> WORDPRESS
+--> BADOO
+--> GITHUB
+--> MESSANGER
+--> YAHO
+--> STEAM
+--> PINTERST
+--> GOOGLE
+--> GITLAB
+--> MICROSOFT
+--> TWITSH
+--> YANDEX
+--> PROTONMAIL
+--> NETFLIX
+--> SNAPCHAT
+--> INSTAGRAM
+
+
+
+--------- THANKS FOR DOWNLOAD MY PROJECT --------------------
